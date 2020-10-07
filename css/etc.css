@@ -1,0 +1,48 @@
+/*menu_bar*/
+#menu_bar ul li i{
+	color : #666;
+	vertical-align: middle;
+	font-size : 15px;
+	line-height : 40px;
+}
+#menu_bar ul li{
+	border-bottom : #999 1px;
+}
+/*paging css*/
+.paging {
+	padding-top:30px; 
+	text-align:center;
+}
+.paging a {
+	padding:10px; 
+	border:1px solid #e0e0e0;
+}
+.paging a.active {
+	background:#007dc6;
+	color:#fff
+}
+.paging .btn_write{
+	background : #123454;
+	padding : 10px 16px;
+	color : #fff;
+	float : right;
+}
+/*footer css*/
+#footer{
+	background :#42464d;
+	padding-top:10px;
+	//padding-bottom:10px;
+}
+#footer .address {
+	font-style:normal;
+	color:#ababb1;
+	margin-bottom:10px;
+}
+#footer .address .title{
+	font-size:14px;
+	margin-bottom:8px;
+	color:#fff;
+}
+#footer .copyright{
+	color:#fff;
+}
