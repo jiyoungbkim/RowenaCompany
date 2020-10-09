@@ -6,7 +6,7 @@
 
 ![index1](https://user-images.githubusercontent.com/45545999/95304153-25bf4580-08bf-11eb-86a5-e9f8d06ae4cd.png)
 
-# **👩🏻‍💻** 사용언어
+# 📝 사용언어
 
 Java, JavaScript, HTML&CSS, SQL
 
