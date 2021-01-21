@@ -42,9 +42,9 @@ JSP
 ## 4. 프로젝트 이미지
 
 ### 뉴스 게시판
-![MemberList](https://user-images.githubusercontent.com/45545999/95304164-29eb6300-08bf-11eb-878f-3c4d0013079b.png)
-### 관리자 메뉴
 ![NewsList](https://user-images.githubusercontent.com/45545999/95304167-2a83f980-08bf-11eb-9309-40cfd15a95c7.png)
+### 관리자 메뉴
+![MemberList](https://user-images.githubusercontent.com/45545999/95304164-29eb6300-08bf-11eb-878f-3c4d0013079b.png)
 ### QnA 게시판
 ![Q AList](https://user-images.githubusercontent.com/45545999/95304169-2b1c9000-08bf-11eb-99c9-2e7873f27912.png)
 
